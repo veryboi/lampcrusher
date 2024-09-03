@@ -45,15 +45,8 @@ Players take on the role of the Pixar lamp in a stylized 3D environment. The obj
 - **Spacebar**: Jump
 - **Mouse**: Control camera view
 
-## Contributing
-
-This project is part of a course assignment. While we appreciate interest, we are not currently accepting external contributions.
-
-## License
-
-(Include appropriate license information)
 
 ## Acknowledgments
 
 - Inspired by the Pixar lamp character
-- Developed as part of [Course Name] at UCLA
+- Developed as part of CS174A at UCLA
