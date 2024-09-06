@@ -37,8 +37,7 @@ Players take on the role of the Pixar lamp in a stylized 3D environment. The obj
 
 ## Getting Started
 
-(Include instructions for setting up the project, dependencies, and how to run the game)
-
+Visit https://veryboi.github.io/lampcrusher/
 ## Controls
 
 - **WASD**: Move the lamp
